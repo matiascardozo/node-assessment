@@ -12,6 +12,14 @@ to run the seeds:
 
 $ npm run seed
 
+to run the linter:
+
+$ npm run lint
+
+to start the project
+
+$ npm start
+
 Available endpoints: 
 Method: GET,
 Url: http://localhost:3000/story/:storyId
