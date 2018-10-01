@@ -1,4 +1,6 @@
-To create the database you will have to install Postgres with a user "postgres" and password "postgres". Then run the following command:
+To create the database you will have to install Postgres with a user "postgres" and password "postgres". Then run the following commands:
+
+to create the database:
 
 $ npm run create-db
 
